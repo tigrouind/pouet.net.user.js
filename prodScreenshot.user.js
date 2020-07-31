@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name          prodScreenshot
 // @description   Add the corresponding thumbnail inside each link to a prod.
-// @include http://pouet.net/*
-// @exclude http://pouet.net/
-// @exclude http://pouet.net/index.php*
-// @include http://www.pouet.net/*
-// @exclude http://www.pouet.net/
-// @exclude http://www.pouet.net/index.php*
+// @include *://pouet.net/*
+// @exclude *://pouet.net/
+// @exclude *://pouet.net/index.php*
+// @include *://www.pouet.net/*
+// @exclude *://www.pouet.net/
+// @exclude *://www.pouet.net/index.php*
 // ==/UserScript==
 /*
  * 2012.08.24 Tigrou^ind ( tigrou.ind@gmail.com ). Original idea and implementation
